@@ -167,7 +167,7 @@ fieldset[disabled] .form-control {
   -webkit-border-radius: 2px;
      -moz-border-radius: 2px;
           border-radius: 2px;
-  font-family: "Droid Sans", sans-serif;
+  font-family: "Open+Sans", sans-serif;
   -webkit-transition: .2s;
      -moz-transition: .2s;
           transition: .2s;
@@ -703,7 +703,7 @@ code, pre {
   padding: 0 15px;
   border-bottom: 2px solid transparent;
   color: #aaa;
-  font-family: "Droid Sans", sans-serif;
+  font-family: "Open+Sans", sans-serif;
   line-height: 50px;
   -webkit-transition: .2s;
      -moz-transition: .2s;
@@ -1040,7 +1040,7 @@ code, pre {
      -moz-border-radius: 2px;
           border-radius: 2px;
   font-size: 20px;
-  font-family: "Droid sans", sans-serif;
+  font-family: "Open+Sans", sans-serif;
   color: #b5b5b5;  
 }
 
@@ -1105,7 +1105,7 @@ code, pre {
   font-size: 16px;
   letter-spacing: -1px;
   color: #b5b5b5;
-  font-family: "Droid Sans", sans-serif;
+  font-family: "Open+Sans", sans-serif;
 }
 
 .timeline > li img,
@@ -2012,7 +2012,7 @@ code, pre {
   height: 50px;
   background: #fafafa;
   border-top: 2px solid #eee;
-  font-family: "Droid Sans", sans-serif;
+  font-family: "Open+Sans", sans-serif;
   color: #b5b5b5;
   line-height: 48px;
 }
