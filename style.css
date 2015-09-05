@@ -650,7 +650,7 @@ code, pre {
   [SHS] SHARED STYLE 
   ------------------------------------*/					
 .section-wrap {
-  min-height: 70%;
+  min-height: 75%;
   padding: 20px 0;
   border-bottom: 1px dotted #eee;
 }
